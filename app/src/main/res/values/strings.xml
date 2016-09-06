@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Server Ping</string>
+    <string name="server_status">Status</string>
+    <string name="total">Total: </string>
+    <string name="success">S: </string>
+    <string name="failed">F: </string>
+</resources>
